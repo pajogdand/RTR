@@ -1,0 +1,9 @@
+1. Compiler , Linker/Interpreter, loader, Assember, and , Disasember ,Debugger ==> In shorts it is called as toolchain
+2. header files / namepsace  / packages 
+3. API Libraries
+          - procedural
+          - Object Orientated
+4. Documentation
+5. Runtime Environment/Virtual Machine
+6. IDE (Integrated Development Environment)
+
